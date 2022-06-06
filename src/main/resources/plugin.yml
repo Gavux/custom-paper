@@ -1,3 +1,10 @@
 name: CustomPaper
 version: 1.0
 main: dev.gavux.custompaper.CustomPaper
+author: Gavux
+
+commands:
+  custompaper:
+    description: Configuration for CustomPaper plugin
+    usage: /<command>
+    aliases: cp
